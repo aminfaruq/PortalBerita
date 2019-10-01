@@ -6,6 +6,7 @@ import retrofit2.http.GET;
 
 public interface ApiService {
     //TODO 3 merequest data dan mengambil data berita
+    //tolo aowkoawkaokwoakw
     @GET("tampil_berita.php")
     Call<ResponseBerita> getAllBerita();
 }
