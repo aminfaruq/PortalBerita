@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         tampilBerita();
 
     }
+//     oke hvuktdbjyvjtfyvbnky
 
     private void tampilBerita() {
         //buat progress dialog
